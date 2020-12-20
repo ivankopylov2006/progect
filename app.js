@@ -22,6 +22,8 @@ let qest2 = prompt("Во сколько обойдется?", 1000);
 // console.log(qest1, qest2);
 appData.expenses[qest1]= qest2;
 alert("бюджет на 1 день "+(appData.moneyData/30));
+alert("Закончить?");
+
 // object['three'] = 'three'
 
 
